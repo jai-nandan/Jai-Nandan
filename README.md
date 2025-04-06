@@ -39,6 +39,11 @@
 
 </br>
 
+<h3 align="left"> Creative Web Development</h3>
+
+![Canva](https://img.icons8.com/?size=96&id=iWw83PVcBpLw&format=png) 
+
+
 <h2 align="left"> GitHub Stats 📊 </h2>
 
 </br>
