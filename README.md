@@ -1,27 +1,62 @@
 ![logo](https://github.com/jai-nandan/Jai-Nandan/blob/main/jainandan%20banner.jpg)
-<h2 align="center"> 
+<h1 align="center"> 
   Hi👋, &nbsp; I'm Jai Nandan 
-  </h2>
+  </h1>
+  <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+
   
 </br>
 
-<p align="center" style="text-align: center;">
+<h3 align="center" style="text-align: center">
   I Love Turning Imaginations into Reality 🚀
-</p>
+</h3>
+
+
+
+</br>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/jai-nandan-99054a301?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B34QaQhKrQWydBrRDOzLzPg%3D%3D" target="_blank">
     <img src="https://img.icons8.com/?size=96&id=13930&format=png" alt="LinkedIn Badge" />
   </a>
  <a href="#" target="_blank">
-    <img src="https://img.icons8.com/?size=100&id=84648&format=png "alt="Portfolio Badge" />
+    <img src="https://img.icons8.com/?size=96&id=XhDBVc7IBFl9&format=png"alt="Portfolio Badge" />
   </a>
   <a href="https://www.instagram.com/jainandan_5911/" target="_blank">
     <img src="https://img.icons8.com/?size=96&id=32323&format=png" alt="Instagram" />
   </a>
-  <a href="https://atishayweb.vercel.app" target="_blank">
+  <a href="#" target="_blank">
     <img src="https://img.icons8.com/?size=96&id=18911&format=png" alt="Webfolio Badge" />
   </a>
+  
+  </br>
+
+<h2 align="left">Tech Stack 💻 </h2>
+
+<h3 align="left "> Languages </h3>
+
+![JavaScript](https://img.icons8.com/?size=96&id=PXTY4q2Sq2lG&format=png) 
+![HTML5](https://img.icons8.com/?size=96&id=20909&format=png) 
+![CSS3](https://img.icons8.com/?size=96&id=21278&format=png) 
+
+</br>
+
+<h2 align="left"> GitHub Stats 📊 </h2>
+
+</br>
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jai-nandan&show_icons=true&locale=en&layout=compact" alt="jai-nandan" /></p>
+
+
+<br/>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jai-nandan&" alt="jai-nandan" /></p>
+
+</br>
+
+
+🌟 Follow my work here: [Jai nanndan GitHub Profile](https://github.com/jai-nandan) 🚀
 <!--
 **jai-nandan/Jai-Nandan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
