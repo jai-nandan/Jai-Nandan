@@ -1,4 +1,4 @@
-## Hi there 👋
+![logo](https://github.com/jai-nandan/Jai-Nandan/blob/main/jainandan%20banner.jpg)
 
 <!--
 **jai-nandan/Jai-Nandan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
