@@ -20,9 +20,7 @@
  <a href="#" target="_blank">
     <img src="https://img.icons8.com/?size=96&id=XhDBVc7IBFl9&format=png"alt="Portfolio Badge" />
   </a>
-  <a href="https://www.instagram.com/jainandan_5911/" target="_blank">
-    <img src="https://img.icons8.com/?size=96&id=32323&format=png" alt="Instagram" />
-  </a>
+
   <a href="#" target="_blank">
     <img src="https://img.icons8.com/?size=96&id=18911&format=png" alt="Webfolio Badge" />
   </a>
