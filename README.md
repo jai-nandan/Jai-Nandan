@@ -18,14 +18,14 @@
     <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" />
   </a>
    <a href="" target="_blank">
-    <img src= "https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" alt="LinkedIn Badge" />
+    <img src= "https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" alt=" Gmail Badge" />
   </a>
  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-%23593d88?logo=mongodb&logoColor=white&style=flat"alt="Portfolio Badge" />
+    <img src= "https://img.shields.io/badge/portfolio%20website%20-%20black " alt= "Portfolio Badge" />
   </a>
 
   <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Blogger-%23FF5722.svg?logo=blogger&logoColor=white" alt="Webfolio Badge" />
+    <img src="https://img.shields.io/badge/blogging%20website%20-%20red" alt="blogging Badge" />
   </a>
   
   </br>
