@@ -47,16 +47,7 @@
 
 </br>
 
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jai-nandan&show_icons=true&locale=en&layout=compact" alt="jai-nandan" /></p>
-
-
-<br/>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jai-nandan&" alt="jai-nandan" /></p>
-
-</br>
-
 
 🌟 Follow my work here: [Jai nanndan GitHub Profile](https://github.com/jai-nandan) 🚀
 <!--
