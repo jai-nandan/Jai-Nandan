@@ -15,17 +15,17 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/jai-nandan-99054a301?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B34QaQhKrQWydBrRDOzLzPg%3D%3D" target="_blank">
-    <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" />
+    <img src="https://img.shields.io/badge/linked%20IN-blue?style=for-the-badge&logo=infracost&logoColor=white&logoSize=auto&color=blue" />
   </a>
    <a href="" target="_blank">
-    <img src= "https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" alt=" Gmail Badge" />
+    <img src= "https://img.shields.io/badge/GMAIL-lightred?style=for-the-badge&logo=gmail&logoColor=white&logoSize=auto&color=red" alt=" Gmail Badge" />
   </a>
  <a href="#" target="_blank">
-    <img src= "https://img.shields.io/badge/portfolio%20website%20-%20black " alt= "Portfolio Badge" />
+    <img src= "https://img.shields.io/badge/Jai%20Nandan%20Portfolio%20-light%20blue?style=for-the-badge&logo=joplin&logoColor=black&logoSize=auto" alt= "Portfolio Badge" />
   </a>
 
   <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/blogging%20website%20-%20red" alt="blogging Badge" />
+    <img src="https://img.shields.io/badge/Blogging%20Website-brown?style=for-the-badge&logo=blogger&logoColor=white&logoSize=auto&color=brown&cacheSeconds=yellow" alt="blogging Badge" />
   </a>
   
   </br>
@@ -34,14 +34,16 @@
 
 <h3 align="left "> Languages </h3>
 
-![HTML5](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)
+![HTML5](https://img.shields.io/badge/HTML-red?style=for-the-badge&logo=html5&logoColor=white&logoSize=auto&color=red&cacheSeconds=yellow)
+![CSS3](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3&logoSize=auto&color=blue&cacheSeconds=yellow)
+![Java Script](https://img.shields.io/badge/Java%20Script-yellow?style=for-the-badge&logo=javascript&logoColor=white&logoSize=auto&color=yellow&cacheSeconds=yellow)
+
 </br>
 
 <h3 align="left"> Creative Web Development</h3>
 
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&logo=Canva&logoColor=white)
+![canava](https://img.shields.io/badge/Canva-red?style=for-the-badge&logo=canva&logoColor=white&logoSize=auto&color=aqua&cacheSeconds=yellow)
+
 
 <h2 align="left"> GitHub Stats 📊 </h2>
 
