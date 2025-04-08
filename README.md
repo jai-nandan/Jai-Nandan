@@ -17,6 +17,9 @@
   <a href="https://www.linkedin.com/in/jai-nandan-99054a301?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B34QaQhKrQWydBrRDOzLzPg%3D%3D" target="_blank">
     <img src="https://img.icons8.com/?size=96&id=13930&format=png" alt="LinkedIn Badge" />
   </a>
+   <a href="https://github.com/jai-nandan" target="_blank">
+    <img src= "https://img.icons8.com/?size=80&id=SzgQDfObXUbA&format=png" alt="LinkedIn Badge" />
+  </a>
  <a href="#" target="_blank">
     <img src="https://img.icons8.com/?size=96&id=XhDBVc7IBFl9&format=png"alt="Portfolio Badge" />
   </a>
