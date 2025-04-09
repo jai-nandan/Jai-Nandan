@@ -9,8 +9,6 @@
   I Love Turning Imaginations into Reality 🚀
 </h3>
 
-
-
 </br>
 
 <div align="center">
@@ -43,6 +41,35 @@
 <h3 align="left"> Creative Web Development</h3>
 
 ![canava](https://img.shields.io/badge/Canva-red?style=for-the-badge&logo=canva&logoColor=white&logoSize=auto&color=aqua&cacheSeconds=yellow)
+</div>
+</br>
+
+
+<h1 align="center"> 
+   Projects Which I created 
+  </h1>
+<div align="center">
+<a href="#" target="_blank">
+<img src="https://img.shields.io/badge/MATH%20Tution-blue?style=for-the-badge&logo=flathub" alt=" Math tution">
+</a>
+<a href="#" target="_blank">
+<img src="https://img.shields.io/badge/Sidhu%20%20mooseewal%20Website%20-green?style=for-the-badge&logo=snyk&logoSize=auto&color=light%20green" alt=" Sidhu Moosewal">
+</a>
+<a href="#" target="_blank">
+<img src="https://img.shields.io/badge/Gallery%20using%20Flexbox-violet?style=for-the-badge&logo=talos&logoColor=white&logoSize=auto" alt=" Gallery Using Flexbox">
+</a>
+<a href="#" target="_blank">
+<img src="https://img.shields.io/badge/Gallery%20using%20Grid-purple?style=for-the-badge&logo=hal&logoColor=white&logoSize=auto" alt=" Gallery using grid">
+</a>
+<a href="#" target="_blank">
+<img src="https://img.shields.io/badge/Amazon%20Clone%20-Navy%20blue?style=for-the-badge&logo=amazon&logoColor=white&logoSize=auto&color=red" alt=" Amazonclone">
+</a>
+<a href="#" target="_blank">
+<img src="https://img.shields.io/badge/Admission%20Form-blue?style=for-the-badge&logo=typeorm&logoColor=red&logoSize=auto&color=pink" alt=" Admission Form">
+</a>
+<a href="#" target="_blank">
+<img src="https://img.shields.io/badge/Age%20Calculator-violet?style=for-the-badge&logo=tailscale&logoColor=red&logoSize=auto&color=black" alt=" Age calculator">
+</a>
 
 
 <h2 align="left"> GitHub Stats 📊 </h2>
