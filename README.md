@@ -35,6 +35,8 @@
 ![HTML5](https://img.shields.io/badge/HTML-red?style=for-the-badge&logo=html5&logoColor=white&logoSize=auto&color=red&cacheSeconds=yellow)
 ![CSS3](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3&logoSize=auto&color=blue&cacheSeconds=yellow)
 ![Java Script](https://img.shields.io/badge/Java%20Script-yellow?style=for-the-badge&logo=javascript&logoColor=white&logoSize=auto&color=yellow&cacheSeconds=yellow)
+![Python]("https://img.shields.io/badge/Python-app?style=for-the-badge&logo=python&logoColor=yellow&color=blue&cacheSeconds=steel%20blue)
+
 
 </br>
 
@@ -72,7 +74,12 @@
 </a>
 <a href="https://github.com/jai-nandan/loginform " >
   <img src="https://img.shields.io/badge/Login%20form-%20orange?style=for-the-badge&logo=loom" alt=" Login Form">
-
+</a>
+<a href="https://github.com/jai-nandan/fake_news_detectionhttps://github.com/jai-nandan/fake_news_detection">
+<img alt="Static Badge" src="https://img.shields.io/badge/fake-news-detection?style=for-the-badge&logo=newrelic">
+</a>
+<a href="https://github.com/jai-nandan/face_detection">
+  <img alt="Static Badge" src="https://img.shields.io/badge/face-detection-app?style=for-the-badge&logo=huggingface&labelColor=golden&color=golden">
 </a>
 
 
