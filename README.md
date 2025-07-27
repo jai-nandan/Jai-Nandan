@@ -75,7 +75,7 @@
 <a href="https://github.com/jai-nandan/loginform " >
   <img src="https://img.shields.io/badge/Login%20form-%20orange?style=for-the-badge&logo=loom" alt=" Login Form">
 </a>
-<a href="https://github.com/jai-nandan/fake_news_detectionhttps://github.com/jai-nandan/fake_news_detection">
+<a href="https://github.com/jai-nandan/fake_news_detection">
 <img alt="Static Badge" src="https://img.shields.io/badge/fake-news-detection?style=for-the-badge&logo=newrelic">
 </a>
 <a href="https://github.com/jai-nandan/face_detection">
