@@ -46,6 +46,13 @@
 </div>
 </br>
 
+<h3 align="left"> Web Hosting</h3>
+
+![GitHub Pages](https://img.shields.io/badge/Github-pages-app?style=for-the-badge&logo=github&labelColor=orange&color=orange)
+![Vercel](https://img.shields.io/badge/Vercel-app?style=for-the-badge&logo=vercel&logoColor=green&color=black)
+![Netlify](https://img.shields.io/badge/Netlify-app?style=for-the-badge&logo=netlify&logoColor=dark%20green&color=grey)
+
+
 
 <h1 align="center"> 
    Projects Which I created 
