@@ -88,6 +88,9 @@
 <a href="https://github.com/jai-nandan/face_detection">
   <img alt="Static Badge" src="https://img.shields.io/badge/face-detection-app?style=for-the-badge&logo=huggingface&labelColor=golden&color=golden">
 </a>
+<a href="https://github.com/jai-nandan/paramhans_shop"> 
+  <img alt="Static Badge" src="https://img.shields.io/badge/Paramhan%20-shop-app?style=for-the-badge">
+</a>
 
 
 <h2 align="left"> GitHub Stats 📊 </h2>
