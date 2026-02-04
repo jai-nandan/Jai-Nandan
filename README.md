@@ -18,8 +18,8 @@
    <a href="" target="_blank">
     <img src= "https://img.shields.io/badge/GMAIL-lightred?style=for-the-badge&logo=gmail&logoColor=white&logoSize=auto&color=red" alt=" Gmail Badge" />
   </a>
- <a href="#" target="_blank">
-    <img src= "https://jainandan-portfolio-xlne.vercel.app/" alt= "Portfolio Badge" />
+ <a href="https://jainandan-portfolio-xlne.vercel.app/" target="_blank">
+    <img alt="Static Badge" src="https://img.shields.io/badge/personal%20portolio-jai?style=for-the-badge&logo=protodotio&logoColor=violet&logoSize=auto&labelColor=abcdef&color=fedcba&cacheSeconds=3600">
   </a>
 
   <a href="#" target="_blank">
