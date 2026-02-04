@@ -19,7 +19,7 @@
     <img src= "https://img.shields.io/badge/GMAIL-lightred?style=for-the-badge&logo=gmail&logoColor=white&logoSize=auto&color=red" alt=" Gmail Badge" />
   </a>
  <a href="#" target="_blank">
-    <img src= "https://img.shields.io/badge/Jai%20Nandan%20Portfolio%20-light%20blue?style=for-the-badge&logo=joplin&logoColor=black&logoSize=auto" alt= "Portfolio Badge" />
+    <img src= "https://jainandan-portfolio-xlne.vercel.app/" alt= "Portfolio Badge" />
   </a>
 
   <a href="#" target="_blank">
