@@ -90,7 +90,17 @@
 </a>
 <a href="https://github.com/jai-nandan/paramhans_shop"> 
   <img alt="Static Badge" src="https://img.shields.io/badge/Paramhan%20-shop-app?style=for-the-badge">
+</a
+<a href=""> 
+  <img alt="Static Badge" src="https://img.shields.io/badge/Attendance_system_software-path?style=for-the-badge&logo=bytedance&color=grey">
 </a>
+<a href="">
+ <img alt="Static Badge" src="https://img.shields.io/badge/Shop_Inventory_system-path?style=for-the-badge&logo=shopee&color=lightblue">
+</a>
+<a href="">
+  <img alt="Static Badge" src="https://img.shields.io/badge/%20Invoice_generator-path?style=for-the-badge&logo=inertia&color=black">
+</a>
+
 
 
 <h2 align="left"> GitHub Stats 📊 </h2>
