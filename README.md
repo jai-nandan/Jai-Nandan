@@ -13,14 +13,14 @@
 <a href="https://your-portfolio-link.com">
   <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white&color=6D28D9" />
 </a>
-<a href="https://linkedin.com/in/your-linkedin">
-  <img src="linkedin.com/in/jai-nandan-99054a301" />
+<a href="https://linkedin.com/in/jai-nandan-99054a301">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://github.com/your-github">
-  <img src="https://github.com/jai-nandan/Jai-Nandan" />
+<a href="https://github.com/jai-nandan/Jai-Nandan">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 <a href="mailto:your-jainandan2409@gmail.com">
-  <img src="" />
+  <img src="https://img.shields.io/badge/Email-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 </div>
