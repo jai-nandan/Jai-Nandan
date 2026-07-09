@@ -10,7 +10,7 @@
 
 <br/><br/>
 
-<a href="https://your-portfolio-link.com">
+<a href="https://portfolio-jade-alpha-36.vercel.app/">
   <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white&color=6D28D9" />
 </a>
 <a href="https://linkedin.com/in/jai-nandan-99054a301">
@@ -257,7 +257,7 @@ Course / Platform Name
 
 <a href="https://github.com/jai-nandan/Jai-Nandan"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 <a href="https://linkedin.com/in/jai-nandan-99054a301"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href=""><img src="https://img.shields.io/badge/Portfolio-6D28D9?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://portfolio-jade-alpha-36.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-6D28D9?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 <a href="mailto:your-jainandan2409@gmail.com"><img src="https://img.shields.io/badge/Email-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 <br/><br/>
