@@ -1,126 +1,269 @@
-![logo](https://github.com/jai-nandan/Jai-Nandan/blob/main/jainandan%20banner.jpg)
-<h1 align="center"> 
-  Hi👋, &nbsp; I'm Jai Nandan 
-  </h1>
-  
-</br>
-
-<h3 align="center" style="text-align: center">
-  I Love Turning Imaginations into Reality 🚀
-</h3>
-
-</br>
-
 <div align="center">
-  <a href="https://www.linkedin.com/in/jai-nandan-99054a301?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B34QaQhKrQWydBrRDOzLzPg%3D%3D" target="_blank">
-    <img src="https://img.shields.io/badge/linked%20IN-blue?style=for-the-badge&logo=infracost&logoColor=white&logoSize=auto&color=blue" />
-  </a>
-   <a href="" target="_blank">
-    <img src= "https://img.shields.io/badge/GMAIL-lightred?style=for-the-badge&logo=gmail&logoColor=white&logoSize=auto&color=red" alt=" Gmail Badge" />
-  </a>
- <a href="https://jainandan-portfolio-xlne.vercel.app/" target="_blank">
-    <img alt="Static Badge" src="https://img.shields.io/badge/personal%20portolio-jai?style=for-the-badge&logo=protodotio&logoColor=violet&logoSize=auto&labelColor=abcdef&color=fedcba&cacheSeconds=3600">
-  </a>
 
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Blogging%20Website-brown?style=for-the-badge&logo=blogger&logoColor=white&logoSize=auto&color=brown&cacheSeconds=yellow" alt="blogging Badge" />
-  </a>
-  
-  </br>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=JAI%20NANDAN&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Scientist%20%7C%20ML%20Engineer%20%7C%20AI%20Developer&descAlignY=58&descSize=18" width="100%" />
 
-<h2 align="left">Tech Stack 💻 </h2>
+<br/>
 
-<h3 align="left "> Languages </h3>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Data+Scientist;Machine+Learning+Engineer;AI+%2F+Deep+Learning+Enthusiast;NLP+%7C+Computer+Vision+%7C+GenAI;Turning+Data+Into+Decisions." alt="Typing SVG" />
+</a>
 
-![HTML5](https://img.shields.io/badge/HTML-red?style=for-the-badge&logo=html5&logoColor=white&logoSize=auto&color=red&cacheSeconds=yellow)
-![CSS3](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3&logoSize=auto&color=blue&cacheSeconds=yellow)
-![Java Script](https://img.shields.io/badge/Java%20Script-yellow?style=for-the-badge&logo=javascript&logoColor=white&logoSize=auto&color=yellow&cacheSeconds=yellow)
-![Python](https://img.shields.io/badge/Python-app?style=for-the-badge&logo=python&logoColor=yellow&color=blue&cacheSeconds=steel%20blue)
+<br/><br/>
 
+<a href="https://your-portfolio-link.com">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white&color=6D28D9" />
+</a>
+<a href="https://linkedin.com/in/your-linkedin">
+  <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white&color=0A66C2" />
+</a>
+<a href="https://github.com/your-github">
+  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white&color=6e5494" />
+</a>
+<a href="mailto:your-email@example.com">
+  <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white&color=8B5CF6" />
+</a>
 
-</br>
-
-<h3 align="left"> Creative Web Development</h3>
-
-![canava](https://img.shields.io/badge/Canva-red?style=for-the-badge&logo=canva&logoColor=white&logoSize=auto&color=aqua&cacheSeconds=yellow)
 </div>
-</br>
 
-<h3 align="left"> Web Hosting</h3>
+<br/>
 
-![GitHub Pages](https://img.shields.io/badge/Github-pages-app?style=for-the-badge&logo=github&labelColor=orange&color=orange)
-![Vercel](https://img.shields.io/badge/Vercel-app?style=for-the-badge&logo=vercel&logoColor=green&color=black)
-![Netlify](https://img.shields.io/badge/Netlify-app?style=for-the-badge&logo=netlify&logoColor=dark%20green&color=grey)
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
+<br/>
 
+## `01` About Me
 
-<h1 align="center"> 
-   Projects Which I created 
-  </h1>
+<table width="100%">
+<tr>
+<td width="60%" valign="top">
+
+I'm **Jai Nandan** — a Computer Science undergrad building at the intersection of **data, models, and product**. I care about turning messy real-world data into systems people can actually use.
+
+**Currently exploring**
+&nbsp;&nbsp;→ Data Science &nbsp;·&nbsp; Machine Learning &nbsp;·&nbsp; Deep Learning
+&nbsp;&nbsp;→ NLP &nbsp;·&nbsp; Computer Vision &nbsp;·&nbsp; MLOps &nbsp;·&nbsp; Generative AI
+
+**Focus areas**
+- Building AI-powered applications end to end
+- Solving real-world problems with data-driven systems
+- Learning in public, shipping in open source
+
+</td>
+<td width="40%" valign="top">
+
+```yaml
+name: Jai Nandan
+role: Data Science Student
+degree: B.Tech CSE
+timeline: 2023 – 2027
+based_at: IIT Jammu (Internship)
+mode: [build, break, learn, repeat]
+```
+
+</td>
+</tr>
+</table>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+
+<br/>
+
+## `02` Tech Stack
+
+<table width="100%">
+<tr>
+<td align="center" width="20%"><b>Languages</b></td>
+<td align="center" width="20%"><b>Data Science</b></td>
+<td align="center" width="20%"><b>Machine Learning</b></td>
+<td align="center" width="20%"><b>Deployment</b></td>
+<td align="center" width="20%"><b>Tools</b></td>
+</tr>
+<tr>
+<td align="center" valign="top">
+
+<img src="https://skillicons.dev/icons?i=python" height="32"/><br/>
+<img src="https://skillicons.dev/icons?i=mysql" height="32"/><br/>
+<img src="https://skillicons.dev/icons?i=html" height="32"/><br/>
+<img src="https://skillicons.dev/icons?i=css" height="32"/><br/>
+<img src="https://skillicons.dev/icons?i=javascript" height="32"/>
+
+</td>
+<td align="center" valign="top">
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" /><br/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" /><br/>
+<img src="https://img.shields.io/badge/Matplotlib-11557c?style=flat-square" /><br/>
+<img src="https://img.shields.io/badge/Seaborn-4c72b0?style=flat-square" /><br/>
+<img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white" /><br/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
+
+</td>
+<td align="center" valign="top">
+
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" /><br/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" /><br/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" /><br/>
+<img src="https://img.shields.io/badge/NLTK-3776AB?style=flat-square" />
+
+</td>
+<td align="center" valign="top">
+
+<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" /><br/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" /><br/>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" /><br/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /><br/>
+<img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" /><br/>
+<img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white" />
+
+</td>
+<td align="center" valign="top">
+
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" /><br/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" /><br/>
+<img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white" /><br/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+
+</td>
+</tr>
+</table>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+
+<br/>
+
+## Featured Projects
+
+</div>
+
+<table width="100%">
+<tr>
+<td width="50%">
+<img src="https://placehold.co/500x260/0A0E27/00D9FF?text=AI+Intelligence+Hub" width="100%" style="border-radius:10px"/>
+
+**AI Intelligence Hub** ⭐⭐⭐⭐⭐
+Centralized platform unifying multiple ML models into one intelligent interface.
+`Python` `FastAPI` `PyTorch` `Docker`
+
+<a href="#"><img src="https://img.shields.io/badge/GitHub-161B22?style=flat-square&logo=github&logoColor=00D9FF"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Live%20Demo-161B22?style=flat-square&logo=vercel&logoColor=8B5CF6"/></a>
+</td>
+
+<td width="50%">
+<img src="https://placehold.co/500x260/0A0E27/8B5CF6?text=Fake+News+Detection" width="100%" style="border-radius:10px"/>
+
+**Fake News Detection**
+NLP-driven classifier that flags misinformation with high precision.
+`Python` `NLP` `Sklearn` `Flask`
+
+<a href="#"><img src="https://img.shields.io/badge/GitHub-161B22?style=flat-square&logo=github&logoColor=00D9FF"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Live%20Demo-161B22?style=flat-square&logo=vercel&logoColor=8B5CF6"/></a>
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+<img src="https://placehold.co/500x260/0A0E27/00D9FF?text=Face+Detection" width="100%" style="border-radius:10px"/>
+
+**Face Detection**
+Real-time facial recognition pipeline built on computer vision fundamentals.
+`Python` `OpenCV` `Deep Learning`
+
+<a href="#"><img src="https://img.shields.io/badge/GitHub-161B22?style=flat-square&logo=github&logoColor=00D9FF"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Live%20Demo-161B22?style=flat-square&logo=vercel&logoColor=8B5CF6"/></a>
+</td>
+
+<td width="50%">
+<img src="https://placehold.co/500x260/0A0E27/8B5CF6?text=Electrical+Shop+Manager" width="100%" style="border-radius:10px"/>
+
+**Electrical Shop Management**
+Full-stack inventory & billing system for small retail businesses.
+`React` `Node.js` `MongoDB`
+
+<a href="#"><img src="https://img.shields.io/badge/GitHub-161B22?style=flat-square&logo=github&logoColor=00D9FF"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Live%20Demo-161B22?style=flat-square&logo=vercel&logoColor=8B5CF6"/></a>
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+<img src="https://placehold.co/500x260/0A0E27/00D9FF?text=Portfolio" width="100%" style="border-radius:10px"/>
+
+**Portfolio**
+Personal site showcasing projects, skills and case studies.
+`Next.js` `TailwindCSS` `Framer Motion`
+
+<a href="#"><img src="https://img.shields.io/badge/GitHub-161B22?style=flat-square&logo=github&logoColor=00D9FF"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Live%20Demo-161B22?style=flat-square&logo=vercel&logoColor=8B5CF6"/></a>
+</td>
+
+<td width="50%">
+<img src="https://placehold.co/500x260/0A0E27/8B5CF6?text=Attendance+Management" width="100%" style="border-radius:10px"/>
+
+**Attendance Management**
+Face-recognition powered automated attendance tracking system.
+`Python` `OpenCV` `SQLite`
+
+<a href="#"><img src="https://img.shields.io/badge/GitHub-161B22?style=flat-square&logo=github&logoColor=00D9FF"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Live%20Demo-161B22?style=flat-square&logo=vercel&logoColor=8B5CF6"/></a>
+</td>
+</tr>
+</table>
+
 <div align="center">
-<a href="https://github.com/jai-nandan/MATH-" target="_blank">
-<img src="https://img.shields.io/badge/MATH%20Tution-blue?style=for-the-badge&logo=flathub" alt=" Math tution">
-</a>
-<a href="https://github.com/jai-nandan/Sidhumoosewala" target="_blank">
-<img src="https://img.shields.io/badge/Sidhu%20%20mooseewal%20Website%20-green?style=for-the-badge&logo=snyk&logoSize=auto&color=light%20green" alt=" Sidhu Moosewal">
-</a>
-<a href="https://github.com/jai-nandan/Minni-Gallery" target="_blank">
-<img src="https://img.shields.io/badge/Gallery%20using%20Flexbox-violet?style=for-the-badge&logo=talos&logoColor=white&logoSize=auto" alt=" Gallery Using Flexbox">
-</a>
-<a href="https://github.com/jai-nandan/gallery-using-grid-" target="_blank">
-<img src="https://img.shields.io/badge/Gallery%20using%20Grid-purple?style=for-the-badge&logo=hal&logoColor=white&logoSize=auto" alt=" Gallery using grid">
-</a>
-<a href="https://github.com/jai-nandan/Amazon_clone" target="_blank">
-<img src="https://img.shields.io/badge/Amazon%20Clone%20-Navy%20blue?style=for-the-badge&logo=amazon&logoColor=white&logoSize=auto&color=red" alt=" Amazonclone">
-</a>
-<a href="https://github.com/jai-nandan/Admission-Form" target="_blank">
-<img src="https://img.shields.io/badge/Admission%20Form-blue?style=for-the-badge&logo=typeorm&logoColor=red&logoSize=auto&color=pink" alt=" Admission Form">
-</a>
-<a href="https://github.com/jai-nandan/Age-Calculator" target="_blank">
-<img src="https://img.shields.io/badge/Age%20Calculator-violet?style=for-the-badge&logo=tailscale&logoColor=red&logoSize=auto&color=black" alt=" Age calculator">
-</a>
-<a href="https://github.com/jai-nandan/loginform " >
-  <img src="https://img.shields.io/badge/Login%20form-%20orange?style=for-the-badge&logo=loom" alt=" Login Form">
-</a>
-<a href="https://github.com/jai-nandan/fake_news_detection">
-<img alt="Static Badge" src="https://img.shields.io/badge/fake-news-detection?style=for-the-badge&logo=newrelic">
-</a>
-<a href="https://github.com/jai-nandan/face_detection">
-  <img alt="Static Badge" src="https://img.shields.io/badge/face-detection-app?style=for-the-badge&logo=huggingface&labelColor=golden&color=golden">
-</a>
-<a href="https://github.com/jai-nandan/paramhans_shop"> 
-  <img alt="Static Badge" src="https://img.shields.io/badge/Paramhan%20-shop-app?style=for-the-badge">
-</a
-<a href="https://github.com/jai-nandan/attendance_system_software"> 
-  <img alt="Static Badge" src="https://img.shields.io/badge/Attendance_system_software-path?style=for-the-badge&logo=bytedance&color=grey">
-</a>
-<a href="https://github.com/jai-nandan/shop-inventory">
- <img alt="Static Badge" src="https://img.shields.io/badge/Shop_Inventory_system-path?style=for-the-badge&logo=shopee&color=lightblue">
-</a>
-<a href="https://github.com/jai-nandan/invoice-gnerator">
-  <img alt="Static Badge" src="https://img.shields.io/badge/%20Invoice_generator-path?style=for-the-badge&logo=inertia&color=black">
-</a>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B5CF6,100:00D9FF&height=2&width=1000" />
+</div>
+
+<br/>
+
+<div align="center">
 
 
 
-<h2 align="left"> GitHub Stats 📊 </h2>
+## `07` Certifications
 
-</br>
+<table width="100%">
+<tr>
+<td align="center" width="33%">
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jai-nandan&show_icons=true&locale=en&layout=compact" alt="jai-nandan" /></p>
+**Machine Learning**
+Course / Platform Name
+*Add certificate link*
 
-🌟 Follow my work here: [Jai nanndan GitHub Profile](https://github.com/jai-nandan) 🚀
-<!--
-**jai-nandan/Jai-Nandan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+</td>
+<td align="center" width="33%">
 
-Here are some ideas to get you started:
+**Deep Learning**
+Course / Platform Name
+*Add certificate link*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</td>
+<td align="center" width="33%">
+
+**Data Science**
+Course / Platform Name
+*Add certificate link*
+
+</td>
+</tr>
+</table>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+
+<br/>
+
+## `08` Let's Connect
+
+<div align="center">
+
+<a href="https://github.com/your-github"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/Portfolio-6D28D9?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
+<br/><br/>
+
+*"Data tells the story. Models make the decisions. I build the bridge between them."*
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" width="100%" />
