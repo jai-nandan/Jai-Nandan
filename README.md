@@ -14,13 +14,13 @@
   <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white&color=6D28D9" />
 </a>
 <a href="https://linkedin.com/in/your-linkedin">
-  <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white&color=0A66C2" />
+  <img src="linkedin.com/in/jai-nandan-99054a301" />
 </a>
 <a href="https://github.com/your-github">
-  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white&color=6e5494" />
+  <img src="https://github.com/jai-nandan/Jai-Nandan" />
 </a>
-<a href="mailto:your-email@example.com">
-  <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white&color=8B5CF6" />
+<a href="mailto:your-jainandan2409@gmail.com">
+  <img src="" />
 </a>
 
 </div>
@@ -144,7 +144,7 @@ mode: [build, break, learn, repeat]
 Centralized platform unifying multiple ML models into one intelligent interface.
 `Python` `FastAPI` `PyTorch` `Docker`
 
-<a href="#"><img src="https://img.shields.io/badge/GitHub-161B22?style=flat-square&logo=github&logoColor=00D9FF"/></a>
+<a href="https://github.com/jai-nandan/Movie_Loan_prediction"><img src="https://img.shields.io/badge/GitHub-161B22?style=flat-square&logo=github&logoColor=00D9FF"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Live%20Demo-161B22?style=flat-square&logo=vercel&logoColor=8B5CF6"/></a>
 </td>
 
@@ -155,7 +155,7 @@ Centralized platform unifying multiple ML models into one intelligent interface.
 NLP-driven classifier that flags misinformation with high precision.
 `Python` `NLP` `Sklearn` `Flask`
 
-<a href="#"><img src="https://img.shields.io/badge/GitHub-161B22?style=flat-square&logo=github&logoColor=00D9FF"/></a>
+<a href="https://github.com/jai-nandan/fake_news_detection"><img src="https://img.shields.io/badge/GitHub-161B22?style=flat-square&logo=github&logoColor=00D9FF"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Live%20Demo-161B22?style=flat-square&logo=vercel&logoColor=8B5CF6"/></a>
 </td>
 </tr>
@@ -168,7 +168,7 @@ NLP-driven classifier that flags misinformation with high precision.
 Real-time facial recognition pipeline built on computer vision fundamentals.
 `Python` `OpenCV` `Deep Learning`
 
-<a href="#"><img src="https://img.shields.io/badge/GitHub-161B22?style=flat-square&logo=github&logoColor=00D9FF"/></a>
+<a href="https://github.com/jai-nandan/face_detection"><img src="https://img.shields.io/badge/GitHub-161B22?style=flat-square&logo=github&logoColor=00D9FF"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Live%20Demo-161B22?style=flat-square&logo=vercel&logoColor=8B5CF6"/></a>
 </td>
 
@@ -179,7 +179,7 @@ Real-time facial recognition pipeline built on computer vision fundamentals.
 Full-stack inventory & billing system for small retail businesses.
 `React` `Node.js` `MongoDB`
 
-<a href="#"><img src="https://img.shields.io/badge/GitHub-161B22?style=flat-square&logo=github&logoColor=00D9FF"/></a>
+<a href="https://github.com/jai-nandan/paramhans_shop"><img src="https://img.shields.io/badge/GitHub-161B22?style=flat-square&logo=github&logoColor=00D9FF"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Live%20Demo-161B22?style=flat-square&logo=vercel&logoColor=8B5CF6"/></a>
 </td>
 </tr>
@@ -192,7 +192,7 @@ Full-stack inventory & billing system for small retail businesses.
 Personal site showcasing projects, skills and case studies.
 `Next.js` `TailwindCSS` `Framer Motion`
 
-<a href="#"><img src="https://img.shields.io/badge/GitHub-161B22?style=flat-square&logo=github&logoColor=00D9FF"/></a>
+<a href="https://github.com/jai-nandan/personal-portfolio"><img src="https://img.shields.io/badge/GitHub-161B22?style=flat-square&logo=github&logoColor=00D9FF"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Live%20Demo-161B22?style=flat-square&logo=vercel&logoColor=8B5CF6"/></a>
 </td>
 
@@ -203,7 +203,7 @@ Personal site showcasing projects, skills and case studies.
 Face-recognition powered automated attendance tracking system.
 `Python` `OpenCV` `SQLite`
 
-<a href="#"><img src="https://img.shields.io/badge/GitHub-161B22?style=flat-square&logo=github&logoColor=00D9FF"/></a>
+<a href="https://github.com/jai-nandan/attendance_system_software"><img src="https://img.shields.io/badge/GitHub-161B22?style=flat-square&logo=github&logoColor=00D9FF"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Live%20Demo-161B22?style=flat-square&logo=vercel&logoColor=8B5CF6"/></a>
 </td>
 </tr>
@@ -255,10 +255,10 @@ Course / Platform Name
 
 <div align="center">
 
-<a href="https://github.com/your-github"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/Portfolio-6D28D9?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-<a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://github.com/jai-nandan/Jai-Nandan"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="linkedin.com/in/jai-nandan-99054a301"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href=""><img src="https://img.shields.io/badge/Portfolio-6D28D9?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="mailto:your-jainandan2409@gmail.com"><img src="https://img.shields.io/badge/Email-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 <br/><br/>
 
