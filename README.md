@@ -228,29 +228,63 @@ I am a **Computer Science student** focused on building practical solutions thro
 
 <p align="center">
 
-<a href="https://github.com/gagandeep399">
-  <img
-    src="https://img.shields.io/badge/Loan%20Prediction%20App-111827?style=for-the-badge&logo=python&logoColor=7C9EFF"
-    alt="Loan Prediction App"
-  />
+<a href="https://github.com/jai-nandan/churun_prediction">
+  <img src="https://img.shields.io/badge/Churun%20Prediction-111827?style=for-the-badge&logo=python&logoColor=7C9EFF" alt="Churun Prediction">
 </a>
 
-<a href="https://github.com/gagandeep399">
-  <img
-    src="https://img.shields.io/badge/House%20Price%20Prediction-111827?style=for-the-badge&logo=python&logoColor=7C9EFF"
-    alt="House Price Prediction"
-  />
+<a href="https://github.com/jai-nandan/Flight_delay_project">
+  <img src="https://img.shields.io/badge/Flight%20Delay%20Project-111827?style=for-the-badge&logo=python&logoColor=7C9EFF" alt="Flight Delay Project">
 </a>
 
-<a href="https://github.com/gagandeep399">
-  <img
-    src="https://img.shields.io/badge/Calories%20Burn%20Prediction-111827?style=for-the-badge&logo=python&logoColor=7C9EFF"
-    alt="Calories Burn Prediction"
-  />
+<a href="https://github.com/jai-nandan/Credit_Card_faurd_Detection">
+  <img src="https://img.shields.io/badge/Credit%20Card%20Fraud%20Detection-111827?style=for-the-badge&logo=python&logoColor=7C9EFF" alt="Credit Card Fraud Detection">
+</a>
+
+<a href="https://github.com/jai-nandan/Movie_Loan_prediction">
+  <img src="https://img.shields.io/badge/Movie%20Loan%20Prediction-111827?style=for-the-badge&logo=python&logoColor=7C9EFF" alt="Movie Loan Prediction">
+</a>
+
+<a href="https://github.com/jai-nandan/Predictions_Models">
+  <img src="https://img.shields.io/badge/Prediction%20Models-111827?style=for-the-badge&logo=scikit-learn&logoColor=F7931E" alt="Prediction Models">
+</a>
+
+<a href="https://github.com/jai-nandan/Prediction-models">
+  <img src="https://img.shields.io/badge/Prediction%20Models-2-111827?style=for-the-badge&logo=scikit-learn&logoColor=F7931E" alt="Prediction Models 2">
+</a>
+
+<a href="https://github.com/jai-nandan/fake_news_detection">
+  <img src="https://img.shields.io/badge/Fake%20News%20Detection-111827?style=for-the-badge&logo=python&logoColor=7C9EFF" alt="Fake News Detection">
+</a>
+
+<a href="https://github.com/jai-nandan/face_detection">
+  <img src="https://img.shields.io/badge/Face%20Detection-111827?style=for-the-badge&logo=python&logoColor=7C9EFF" alt="Face Detection">
+</a>
+
+<a href="https://github.com/jai-nandan/portfolio">
+  <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=html5&logoColor=E34F26" alt="Portfolio">
+</a>
+
+<a href="https://github.com/jai-nandan/paramhans_shop">
+  <img src="https://img.shields.io/badge/Paramhans%20Shop-111827?style=for-the-badge&logo=html5&logoColor=E34F26" alt="Paramhans Shop">
+</a>
+
+<a href="https://github.com/jai-nandan/Amazon_clone">
+  <img src="https://img.shields.io/badge/Amazon%20Clone-111827?style=for-the-badge&logo=amazon&logoColor=FF9900" alt="Amazon Clone">
+</a>
+
+<a href="https://github.com/jai-nandan/shop-inventory">
+  <img src="https://img.shields.io/badge/Shop%20Inventory-111827?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="Shop Inventory">
+</a>
+
+<a href="https://github.com/jai-nandan/invoice-gnerator">
+  <img src="https://img.shields.io/badge/Invoice%20Generator-111827?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="Invoice Generator">
+</a>
+
+<a href="https://github.com/jai-nandan/attendance_system_software">
+  <img src="https://img.shields.io/badge/Attendance%20System-111827?style=for-the-badge&logo=python&logoColor=7C9EFF" alt="Attendance System">
 </a>
 
 </p>
-
 ---
 
 ## GITHUB ANALYTICS
