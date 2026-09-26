@@ -17,6 +17,7 @@
 </p>
 
 <p align="center">
+
   <img
     src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=7C9EFF&center=true&vCenter=true&width=620&lines=Turning+Data+into+Intelligent+Systems;Building+with+Machine+Learning;Exploring+Data+Science+%26+AI;Learning+Model+Deployment;Data+%E2%86%92+Models+%E2%86%92+Intelligence"
     alt="Typing Animation"
@@ -24,27 +25,36 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/gagandeep399">
+
+  <a href="https://portfolio-lkah-delta.vercel.app/">
+  <img
+    src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=google-chrome&logoColor=7C9EFF"
+    alt="Portfolio"
+  />
+</a>
+
+  <a href="https://github.com/jai-nandan">
     <img
       src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"
       alt="GitHub"
     />
   </a>
 
-  <a href="https://www.linkedin.com/in/gagandeep399">
+  <a href="https://www.linkedin.com/in/jai-nandan-99054a301/">
     <img
       src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=7C9EFF"
       alt="LinkedIn"
     />
   </a>
 
-  <a href="mailto:gdeep8572@gmail.com">
+  <a href="mailto:jainandan2409@gmail.com">
     <img
       src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=EA4335"
       alt="Email"
     />
   </a>
 </p>
+
 
 ---
 
@@ -331,23 +341,30 @@ I am a **Computer Science student** focused on building practical solutions thro
 
 <p align="center">
 
-<a href="https://github.com/gagandeep399">
+<a href="https://portfolio-lkah-delta.vercel.app/">
+  <img
+    src="https://img.shields.io/badge/Portfolio-111827?style=flat-square&logo=google-chrome&logoColor=7C9EFF"
+    alt="Portfolio"
+  />
+</a>
+
+<a href="https://github.com/jai-nandan">
   <img
     src="https://img.shields.io/badge/GitHub-111827?style=flat-square&logo=github&logoColor=white"
     alt="GitHub"
   />
 </a>
 
-<a href="https://www.linkedin.com/in/gagandeep399">
+<a href="https://www.linkedin.com/in/jai-nandan-99054a301/">
   <img
     src="https://img.shields.io/badge/LinkedIn-111827?style=flat-square&logo=linkedin&logoColor=7C9EFF"
     alt="LinkedIn"
   />
 </a>
 
-<a href="mailto:gdeep8572@gmail.com">
+<a href="mailto:jainandan2409@gmail.com">
   <img
-    src="https://img.shields.io/badge/gdeep8572%40gmail.com-111827?style=flat-square&logo=gmail&logoColor=EA4335"
+    src="https://img.shields.io/badge/jainandan2409@gmail.com-111827?style=flat-square&logo=gmail&logoColor=EA4335"
     alt="Email"
   />
 </a>
