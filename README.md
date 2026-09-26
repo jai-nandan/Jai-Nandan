@@ -1,3 +1,15 @@
+<!-- ==================== PROFILE BANNER ==================== -->
+
+<p align="center">
+  <img
+    src="./banner.png"
+    alt="Jai Nandan - Data Scientist"
+    width="100%"
+  />
+</p>
+
+<br>
+
 <h1 align="center">JAI NANDAN</h1>
 
 <p align="center">
@@ -18,12 +30,14 @@
       alt="GitHub"
     />
   </a>
+
   <a href="https://www.linkedin.com/in/gagandeep399">
     <img
       src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=7C9EFF"
       alt="LinkedIn"
     />
   </a>
+
   <a href="mailto:gdeep8572@gmail.com">
     <img
       src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=EA4335"
@@ -160,26 +174,32 @@ I am a **Computer Science student** focused on building practical solutions thro
 ## CURRENT FOCUS
 
 <p align="center">
-  <img
-    src="https://img.shields.io/badge/Data%20Science-111827?style=for-the-badge&logo=python&logoColor=7C9EFF"
-    alt="Data Science"
-  />
-  <img
-    src="https://img.shields.io/badge/Machine%20Learning-111827?style=for-the-badge&logo=scikit-learn&logoColor=F7931E"
-    alt="Machine Learning"
-  />
-  <img
-    src="https://img.shields.io/badge/Data%20Analysis-111827?style=for-the-badge&logo=pandas&logoColor=7C9EFF"
-    alt="Data Analysis"
-  />
-  <img
-    src="https://img.shields.io/badge/Model%20Development-111827?style=for-the-badge&logo=python&logoColor=7C9EFF"
-    alt="Model Development"
-  />
-  <img
-    src="https://img.shields.io/badge/Model%20Deployment-111827?style=for-the-badge&logo=streamlit&logoColor=FF4B4B"
-    alt="Model Deployment"
-  />
+
+<img
+  src="https://img.shields.io/badge/Data%20Science-111827?style=for-the-badge&logo=python&logoColor=7C9EFF"
+  alt="Data Science"
+/>
+
+<img
+  src="https://img.shields.io/badge/Machine%20Learning-111827?style=for-the-badge&logo=scikit-learn&logoColor=F7931E"
+  alt="Machine Learning"
+/>
+
+<img
+  src="https://img.shields.io/badge/Data%20Analysis-111827?style=for-the-badge&logo=pandas&logoColor=7C9EFF"
+  alt="Data Analysis"
+/>
+
+<img
+  src="https://img.shields.io/badge/Model%20Development-111827?style=for-the-badge&logo=python&logoColor=7C9EFF"
+  alt="Model Development"
+/>
+
+<img
+  src="https://img.shields.io/badge/Model%20Deployment-111827?style=for-the-badge&logo=streamlit&logoColor=FF4B4B"
+  alt="Model Deployment"
+/>
+
 </p>
 
 ---
@@ -188,17 +208,17 @@ I am a **Computer Science student** focused on building practical solutions thro
 
 <p align="center">
 
-**Data Analysis**
+<strong>Data Analysis</strong>
 &nbsp; → &nbsp;
-**EDA**
+<strong>EDA</strong>
 &nbsp; → &nbsp;
-**Data Preprocessing**
+<strong>Data Preprocessing</strong>
 &nbsp; → &nbsp;
-**Feature Engineering**
+<strong>Feature Engineering</strong>
 &nbsp; → &nbsp;
-**Machine Learning**
+<strong>Machine Learning</strong>
 &nbsp; → &nbsp;
-**Model Deployment**
+<strong>Model Deployment</strong>
 
 </p>
 
@@ -293,7 +313,7 @@ I am a **Computer Science student** focused on building practical solutions thro
 
 <a href="mailto:gdeep8572@gmail.com">
   <img
-    src="https://img.shields.io/badge/Email-111827?style=flat-square&logo=gmail&logoColor=EA4335"
+    src="https://img.shields.io/badge/gdeep8572%40gmail.com-111827?style=flat-square&logo=gmail&logoColor=EA4335"
     alt="Email"
   />
 </a>
