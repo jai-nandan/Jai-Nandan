@@ -269,9 +269,6 @@ I am a **Computer Science student** focused on building practical solutions thro
     <img src="https://img.shields.io/badge/Predictions%20Models-111827?style=for-the-badge&logo=scikit-learn&logoColor=F7931E" alt="Predictions Models" />
   </a>
 
-  <a href="https://github.com/jai-nandan/Prediction-models">
-    <img src="https://img.shields.io/badge/Prediction--Models-111827?style=for-the-badge&logo=scikit-learn&logoColor=F7931E" alt="Prediction Models" />
-  </a>
 
   <a href="https://github.com/jai-nandan/attendance_system_software">
     <img src="https://img.shields.io/badge/Attendance%20System%20Software-111827?style=for-the-badge&logo=python&logoColor=7C9EFF" alt="Attendance System Software" />
