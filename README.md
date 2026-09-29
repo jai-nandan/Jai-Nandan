@@ -237,16 +237,36 @@ I am a **Computer Science student** focused on building practical solutions thro
 
 <p align="center">
 
+  <a href="https://github.com/jai-nandan/FUTURE_DS_02">
+    <img src="https://img.shields.io/badge/FUTURE_DS_02-111827?style=for-the-badge&logo=python&logoColor=7C9EFF" alt="FUTURE_DS_02" />
+  </a>
+
+  <a href="https://github.com/jai-nandan/invoice-gnerator">
+    <img src="https://img.shields.io/badge/Invoice%20Generator-111827?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="Invoice Generator" />
+  </a>
+
+  <a href="https://github.com/jai-nandan/shop-inventory">
+    <img src="https://img.shields.io/badge/Shop%20Inventory-111827?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="Shop Inventory" />
+  </a>
+
+  <a href="https://github.com/jai-nandan/Age-Calculator">
+    <img src="https://img.shields.io/badge/Age%20Calculator-111827?style=for-the-badge&logo=css3&logoColor=1572B6" alt="Age Calculator" />
+  </a>
+
   <a href="https://github.com/jai-nandan/Jai-Nandan">
     <img src="https://img.shields.io/badge/Jai--Nandan-111827?style=for-the-badge&logo=github&logoColor=7C9EFF" alt="Jai-Nandan" />
   </a>
 
-  <a href="https://github.com/jai-nandan/portfolio">
-    <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=google-chrome&logoColor=7C9EFF" alt="Portfolio" />
-  </a>
-
   <a href="https://github.com/jai-nandan/churun_prediction">
     <img src="https://img.shields.io/badge/Churun%20Prediction-111827?style=for-the-badge&logo=python&logoColor=7C9EFF" alt="Churun Prediction" />
+  </a>
+
+  <a href="https://github.com/jai-nandan/FUTURE_DS_01">
+    <img src="https://img.shields.io/badge/FUTURE_DS_01-111827?style=for-the-badge&logo=python&logoColor=7C9EFF" alt="FUTURE_DS_01" />
+  </a>
+
+  <a href="https://github.com/jai-nandan/portfolio">
+    <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=google-chrome&logoColor=7C9EFF" alt="Portfolio" />
   </a>
 
   <a href="https://github.com/jai-nandan/paramhans_shop">
@@ -269,49 +289,8 @@ I am a **Computer Science student** focused on building practical solutions thro
     <img src="https://img.shields.io/badge/Predictions%20Models-111827?style=for-the-badge&logo=scikit-learn&logoColor=F7931E" alt="Predictions Models" />
   </a>
 
-
   <a href="https://github.com/jai-nandan/attendance_system_software">
     <img src="https://img.shields.io/badge/Attendance%20System%20Software-111827?style=for-the-badge&logo=python&logoColor=7C9EFF" alt="Attendance System Software" />
-  </a>
-
-  <a href="https://github.com/jai-nandan/Age-Calculator">
-    <img src="https://img.shields.io/badge/Age%20Calculator-111827?style=for-the-badge&logo=css3&logoColor=1572B6" alt="Age Calculator" />
-  </a>
-
-  <a href="https://github.com/jai-nandan/shop-inventory">
-    <img src="https://img.shields.io/badge/Shop%20Inventory-111827?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="Shop Inventory" />
-  </a>
-
-  <a href="https://github.com/jai-nandan/invoice-gnerator">
-    <img src="https://img.shields.io/badge/Invoice%20Generator-111827?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="Invoice Generator" />
-  </a>
-
-  <a href="https://github.com/jai-nandan/Sidhumoosewala">
-    <img src="https://img.shields.io/badge/Sidhumoosewala-111827?style=for-the-badge&logo=html5&logoColor=E34F26" alt="Sidhumoosewala" />
-  </a>
-
-  <a href="https://github.com/jai-nandan/Minni-Gallery">
-    <img src="https://img.shields.io/badge/Minni%20Gallery-111827?style=for-the-badge&logo=html5&logoColor=E34F26" alt="Minni Gallery" />
-  </a>
-
-  <a href="https://github.com/jai-nandan/gallery-using-grid-">
-    <img src="https://img.shields.io/badge/Gallery%20Using%20Grid-111827?style=for-the-badge&logo=html5&logoColor=E34F26" alt="Gallery Using Grid" />
-  </a>
-
-  <a href="https://github.com/jai-nandan/loginform">
-    <img src="https://img.shields.io/badge/Login%20Form-111827?style=for-the-badge&logo=css3&logoColor=1572B6" alt="Login Form" />
-  </a>
-
-  <a href="https://github.com/jai-nandan/Admission-Form">
-    <img src="https://img.shields.io/badge/Admission%20Form-111827?style=for-the-badge&logo=html5&logoColor=E34F26" alt="Admission Form" />
-  </a>
-
-  <a href="https://github.com/jai-nandan/Amazon_clone">
-    <img src="https://img.shields.io/badge/Amazon%20Clone-111827?style=for-the-badge&logo=amazon&logoColor=FF9900" alt="Amazon Clone" />
-  </a>
-
-  <a href="https://github.com/jai-nandan/MATH-Tution">
-    <img src="https://img.shields.io/badge/MATH%20Tution-111827?style=for-the-badge&logo=css3&logoColor=1572B6" alt="MATH Tution" />
   </a>
 
   <a href="https://github.com/jai-nandan/fake_news_detection">
